@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278890334565",
+    "project_id": "ecomerce-27a66",
+    "storage_bucket": "ecomerce-27a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278890334565:android:7f12a1c90ec3db709d798c",
+        "android_client_info": {
+          "package_name": "com.example.ticketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278890334565-bt4hm49e7420m9nn4e8809k20ndofmms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ticketapp",
+            "certificate_hash": "6d60b273561f59fdd482c9cb828227f031e83dc7"
+          }
+        },
+        {
+          "client_id": "278890334565-o56hhhjbnvffbfb5nmmcgi1vvcvu5oa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEBi2j36qoAD_dQTC0LcMuE886jsWK1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278890334565-o56hhhjbnvffbfb5nmmcgi1vvcvu5oa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
